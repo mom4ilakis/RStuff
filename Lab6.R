@@ -80,3 +80,4 @@ sumOfExp = function(number, att, rate=1 )
 # > hist(wt1)
 # > filtredData = wt1[wt1 < 999]
 # > hist(filtredData)
+#use log to normalize
